@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Global Data Tracker: East Africa Edition
+# COVID-19 Global Data Tracker
 
 ## 📌 Project Description
 
@@ -22,7 +22,6 @@ This project is a data analysis and visualization dashboard focused on the impac
 - **pandas**: Data loading, cleaning, and manipulation.
 - **matplotlib & seaborn**: For clean static visualizations.
 - **Plotly**: For interactive charts and comparative views.
-- **scikit-learn** *(optional)*: For correlation and basic statistical analysis.
 
 ---
 
